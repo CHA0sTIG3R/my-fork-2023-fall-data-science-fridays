@@ -2,3 +2,15 @@
 */.ipynb_checkpoints/*
 .DS_Store
 .DS_Store?
+
+# logs
+logs
+*.log
+
+# data
+game_logs
+game_log_header.csv
+
+# misc
+*.env
+cache
