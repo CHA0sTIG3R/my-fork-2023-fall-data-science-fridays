@@ -14,3 +14,4 @@ game_log_header.csv
 # misc
 *.env
 cache
+.vscode
