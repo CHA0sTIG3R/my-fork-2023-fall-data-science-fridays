@@ -7,10 +7,6 @@
 logs
 *.log
 
-# data
-game_logs
-game_log_header.csv
-
 # misc
 *.env
 cache
