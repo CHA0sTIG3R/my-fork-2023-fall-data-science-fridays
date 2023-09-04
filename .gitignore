@@ -7,6 +7,9 @@
 logs
 *.log
 
+#data
+joined.csv
+
 # misc
 *.env
 cache
